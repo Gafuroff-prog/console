@@ -1,0 +1,11 @@
+let userName = prompt('Ismingizni kiriting.');
+console.log(`Ismingiz: ${userName}`)
+let userSurname = prompt('Familiyangizni kiriting.')
+console.log(`Familiyangiz ${userSurname}`)
+let userAge = prompt('Yoshingizni kiriting.')
+console.log(`Yoshingiz ${userAge}`)
+let userNumber = prompt('Nomeringizni kiriting.')
+console.log(`Nomeringiz ${userNumber}`)
+let userPlace = prompt('Manzilingizni kiriting.')
+console.log(`Manzilingiz ${userPlace}`)
+alert(`saytimizgi hush kelibsiz ${userName} ${userSurname} `)
